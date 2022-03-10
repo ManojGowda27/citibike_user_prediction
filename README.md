@@ -68,7 +68,7 @@ Using the Cross-Industry Standard Process of Data Mining (CRISP-DM) the New York
 
 **1. Which are the Top 5 Bike Stations by Number of Starts?**
 
-![top5](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Top5.png)
+![top5](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/main/img/Top5.png)
 
 Here, we have depicted the 5 highly used start stations in the city of New York. **Pershing Square North** seems to be the most used start station as it is quite close to Grand Central Terminal.
 
