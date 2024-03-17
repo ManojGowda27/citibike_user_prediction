@@ -68,49 +68,49 @@ Using the Cross-Industry Standard Process of Data Mining (CRISP-DM) the New York
 
 **1. Which are the Top 5 Bike Stations by Number of Starts?**
 
-![top5](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Top5.png)
+![top5](img%2FTop5.png)
 
 Here, we have depicted the 5 highly used start stations in the city of New York. **Pershing Square North** seems to be the most used start station as it is quite close to Grand Central Terminal.
 
 **2. Which are the Most Popular Trips?**
 
-![pop](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Most%20Popular.png)
+![pop](img%2FMostPopular.png)
 
 We have depicted the most frequently taken route. From the above plot, we can see that the round trip from **Soissons Landing to Soissons Landing** is quite frequent.
 
 **3. Which borough has the highest service usage?**
 
-![borough](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Borough.png)
+![borough](img%2FBorough.png)
 
 From the above, without any suprise, we can determine that the bikeshare service is highly used in **Manhattan, New York**
 
 **4. How long are the most users travelling?**
 
-![long_trips](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Long%20Travelling.png)
+![long_trips](img%2FLongTravelling.png)
 
 We have binned the trip duration into 3 bins - Normal Trips, Extended Trips and Long Trips. From the above we can observe that **Extended Trips** are taken frequently i.e trips of 30 mins to 60 mins.
 
 **5. Which gender uses the service adequately?**
 
-![gender](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Gender.png)
+![gender](img%2FGender.png)
 
 We have one hot endoded the gender to 0,1, and 2 where 0-Unknown, 1-Male, 2-Female. We can see that **Male** gender are highly using this service.
 
 **6. Which age group has highest usage?**
 
-![age](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Age%20Group.png)
+![age](img%2FAgeGroup.png)
 
 We have binned age into 3 bins namely- Young Adults(min-30), Middle-Aged Adults(31-45) and Old Adults(46-max). We observe that **Middle-Aged Adults** highly use the service followed by Young Adults. we can also observe that Old Adults are not falling back from the other two groups.
 
 **7. What is the average trip duration based on User Type?**
 
-![avg](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Avg%20Trip%20Duration.png)
+![avg](img%2FAvgTripDuration.png)
 
 Here, we have plotted avg trip duration over the the type of user. This can be clearly used to differentiate between Customers and Subscribers as **Subscribers** have a high avg trip duration close **33 mins**.
 
 **8. Which user types have high trip duration?**
 
-![high](https://github.com/ManojGowda27/citibike_user_prediction/blob/master/img/Highest%20Trip%20Duration.png)
+![high](img%2FHighestTripDuration.png)
 
 We can observe that Subscribers take Extended Trips as compared to Customers who tend to use the service for normal trips.
 
