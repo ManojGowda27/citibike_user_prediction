@@ -1,5 +1,5 @@
 # Citi Bike User Prediction
-This project is part of the Machine Learning course from University of Massachusetts, Lowell.
+This project is part of the academic data exploratory and modelling course for University of Massachusetts, Lowell.
 
 #### -- Project Status: [Complete]
 
