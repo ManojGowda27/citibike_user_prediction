@@ -4,7 +4,13 @@ This project is part of the academic data exploratory and modelling course for U
 #### -- Project Status: [Complete]
 
 ## Project Objective
-The Objective of this project is to predict the **usertype** (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member) based on trip duration. We will also try to predict whether a customer would be a potential subscriber based on the frequency of trips and trip durations.
+This project aims to predict the user type (Customer: 24-hour pass or 3-day pass user; Subscriber: Annual Member) of a bike-sharing service based on trip duration. Additionally, the project explores whether a customer could be a potential subscriber by analyzing the frequency of trips and trip durations.
+
+## Key Objectives
+### User Type Prediction
+Develop a model to accurately classify users as either Customers or Subscribers based on the duration of their trips.
+### Subscriber Potential Analysis: 
+Identify potential subscribers by examining patterns in trip frequency and duration.
 
 ### Methods Used  
 * Exploratory Data Analysis
